@@ -1,8 +1,12 @@
 mod board;
+mod piece; 
 
 fn main() {
-    print!("Hello");
-    let board = board::Board {
-        
-     };
+    let mut _board = board::Board {
+       grid: [ [0; 8]; 8]
+    };
+
+    for row in _board.grid {
+        println!("Row: {:?}", row);
+    }
 }
