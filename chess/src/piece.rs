@@ -47,7 +47,7 @@ struct Rook  {
 enum Piece {
     PawnPiece(Pawn),
     KingPiece(King),
-    QueenPiece(Queen).
+    QueenPiece(Queen),
     BishopPiece(Bishop),
     KnightPiece(Knight),
     RookPiece(Rook),
