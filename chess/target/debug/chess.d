@@ -1,1 +1,0 @@
-/home/onaconnapuna/rusty_chess/chess/target/debug/chess: /home/onaconnapuna/rusty_chess/chess/src/board.rs /home/onaconnapuna/rusty_chess/chess/src/main.rs /home/onaconnapuna/rusty_chess/chess/src/piece.rs
