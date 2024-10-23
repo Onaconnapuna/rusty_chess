@@ -1,9 +1,0 @@
-/home/onaconnapuna/learnrust/rusty_chess/chess/target/debug/deps/libbevy_derive-d80de1647146f468.so: /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/lib.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/app_plugin.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/bevy_main.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/derefs.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/enum_variant_meta.rs
-
-/home/onaconnapuna/learnrust/rusty_chess/chess/target/debug/deps/bevy_derive-d80de1647146f468.d: /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/lib.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/app_plugin.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/bevy_main.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/derefs.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/enum_variant_meta.rs
-
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/lib.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/app_plugin.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/bevy_main.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/derefs.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_derive-0.14.2/src/enum_variant_meta.rs:

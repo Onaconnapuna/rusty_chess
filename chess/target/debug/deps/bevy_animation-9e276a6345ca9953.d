@@ -1,9 +1,0 @@
-/home/onaconnapuna/learnrust/rusty_chess/chess/target/debug/deps/libbevy_animation-9e276a6345ca9953.rmeta: /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/lib.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/animatable.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/graph.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/transition.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/util.rs
-
-/home/onaconnapuna/learnrust/rusty_chess/chess/target/debug/deps/bevy_animation-9e276a6345ca9953.d: /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/lib.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/animatable.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/graph.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/transition.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/util.rs
-
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/lib.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/animatable.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/graph.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/transition.rs:
-/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_animation-0.14.2/src/util.rs:
