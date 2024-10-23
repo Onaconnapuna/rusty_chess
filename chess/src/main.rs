@@ -16,6 +16,11 @@ pub mod piece;
     //     println!("Row: {:?}", row);
     // }
 } */
+#[derive(Component)]
+struct Person;
+
+#[derive(Component)]
+struct Name(String);
 
 #[derive(Component)]
 struct Position {
@@ -32,12 +37,13 @@ fn hello_world() {
 }
 
 fn main() {
-    App::new().add_systems(Update, hello_world).run();
+    App::new()
+        .add_systems(Startup, add_people)
+        .add_systems(Update, hello_world)
+        .run();
 }
 
-fn print_position_system(query: Query<&Position>) {
-    for position in &query {
-        println!("position: {} {}", position.x, position.y);
-    }
+fn add_people(mut commands: Commands) {
+    commands.spawn((Person, Name("Connor Germain".to_string())));
+    commands.spawn((Person, Name("Barak Obama".to_string())));
 }
-
