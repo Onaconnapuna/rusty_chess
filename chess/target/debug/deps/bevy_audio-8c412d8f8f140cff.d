@@ -1,0 +1,10 @@
+/home/onaconnapuna/learnrust/rusty_chess/chess/target/debug/deps/libbevy_audio-8c412d8f8f140cff.rmeta: /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/lib.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio_output.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio_source.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/pitch.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/sinks.rs
+
+/home/onaconnapuna/learnrust/rusty_chess/chess/target/debug/deps/bevy_audio-8c412d8f8f140cff.d: /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/lib.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio_output.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio_source.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/pitch.rs /home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/sinks.rs
+
+/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/lib.rs:
+/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio.rs:
+/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio_output.rs:
+/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/audio_source.rs:
+/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/pitch.rs:
+/home/onaconnapuna/.cargo/registry/src/index.crates.io-6f17d22bba15001f/bevy_audio-0.14.2/src/sinks.rs:
