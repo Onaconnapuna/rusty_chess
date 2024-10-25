@@ -39,11 +39,26 @@ fn hello_world() {
 fn main() {
     App::new()
         .add_systems(Startup, add_people)
-        .add_systems(Update, hello_world)
+        .add_systems(Update, (hello_world, greet_people))
         .run();
 }
 
 fn add_people(mut commands: Commands) {
     commands.spawn((Person, Name("Connor Germain".to_string())));
     commands.spawn((Person, Name("Barak Obama".to_string())));
+}
+
+fn greet_people(query: Query<&Name, With<Person>>) {
+    for name in &query {
+        println!("hello {}!", name.0);
+    }
+}
+
+fn update_people(mut query: Query<&mut Name, With<Person>>) {
+    for mut name in &mut query {
+        if name.0 == "Connor Germain" {
+            name.0 == "Connor St. Germain".to_string();
+            break;
+        }
+    }
 }
